@@ -1,6 +1,3 @@
-<<<<<<< NewBranch
 Nb new file data = 11
-=======
 file = 11
->>>>>>> main
 
